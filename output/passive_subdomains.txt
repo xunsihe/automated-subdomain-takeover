@@ -1925,6 +1925,7 @@ sbdsn.suning.com
 sbos.suning.com
 sbytz.suning.com
 scf.suning.com
+school.zhangmenyouke.com
 scisky.suning.com
 scs.suning.com
 scva.suning.com
@@ -2834,6 +2835,7 @@ www.ys.zbj.com
 www.zbj.com
 www.zc.suning.com
 www.zhangmen.com
+www.zhangmenyouke.com
 www.zhengzhou.zbj.com
 www2.zhangmen.com
 wwww.suning.com
@@ -3125,6 +3127,7 @@ zexiang.zbj.com
 zgfg.suning.com
 zhangjiajie.zbj.com
 zhangmen.com
+zhangmenyouke.com
 zhanjiang.zbj.com
 zhanyou.suning.com
 zhaopin.zbj.com

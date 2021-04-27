@@ -238,6 +238,7 @@ http://www-suning-com.suning.com
 http://www.bofeiyundong.suning.com
 http://www.ys.zbj.com
 http://www.zhangmen.com
+http://www.zhangmenyouke.com
 http://xdao.suning.com
 http://xddsp.suning.com
 http://xdzbt.suning.com
@@ -2839,6 +2840,7 @@ https://zekai.zbj.com
 https://zexiang.zbj.com
 https://zhangjiajie.zbj.com
 https://zhangmen.com
+https://zhangmenyouke.com
 https://zhanjiang.zbj.com
 https://zhanyou.suning.com
 https://zhaopin.zbj.com
