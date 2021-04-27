@@ -1,5 +1,6 @@
 http://annwa.suning.com
 http://bbs.suning.com
+http://bbs.zhangmen.com
 http://bigdata.zbj.com
 http://bingo.suning.com
 http://bosheng.suning.com
@@ -7,6 +8,7 @@ http://brand.zbj.com
 http://gszc.zbj.com
 http://help.zbj.com
 http://jc.mslb.suning.com
+http://mail.zhangmen.com
 http://minimarketing.zbj.com
 http://mtrade.gslba10.suning.com
 http://nanchuan.zbj.com
@@ -235,6 +237,7 @@ http://woxiu8.suning.com
 http://www-suning-com.suning.com
 http://www.bofeiyundong.suning.com
 http://www.ys.zbj.com
+http://www.zhangmen.com
 http://xdao.suning.com
 http://xddsp.suning.com
 http://xdzbt.suning.com
@@ -1628,6 +1631,7 @@ https://m.union.ipr.zbj.com
 https://m.vr.zbj.com
 https://m.zbj.com
 https://m.zc.suning.com
+https://m.zhangmen.com
 https://m13211057415.suning.com
 https://m2.zbj.com
 https://m2app.zbj.com
@@ -1863,6 +1867,7 @@ https://online.suning.com
 https://opdgdq.suning.com
 https://open.suning.com
 https://open.zbj.com
+https://open.zhangmen.com
 https://openapi.zbj.com
 https://opple.suning.com
 https://opple2.suning.com
@@ -2030,6 +2035,7 @@ https://reny.suning.com
 https://renzheng.zbj.com
 https://reportservice.zbj.com
 https://resjrprd.suning.com
+https://resource.zhangmen.com
 https://respay.suning.com
 https://respaysit.suning.com
 https://review.suning.com
@@ -2403,6 +2409,7 @@ https://sstj.zbj.com
 https://st-sat.suning.com
 https://start.suning.com
 https://static.zbj.com
+https://static.zhangmen.com
 https://statistics.zbj.com
 https://stc.suning.com
 https://stiebeleltron.suning.com
@@ -2831,6 +2838,7 @@ https://zeecis.zbj.com
 https://zekai.zbj.com
 https://zexiang.zbj.com
 https://zhangjiajie.zbj.com
+https://zhangmen.com
 https://zhanjiang.zbj.com
 https://zhanyou.suning.com
 https://zhaopin.zbj.com

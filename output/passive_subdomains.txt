@@ -222,6 +222,7 @@ baoxian.suning.com
 baoyingjia.suning.com
 bbpaw.suning.com
 bbs.suning.com
+bbs.zhangmen.com
 bcerair.suning.com
 beaba.suning.com
 bear.suning.com
@@ -682,6 +683,7 @@ fastcfg.suning.com
 favorite.suning.com
 fc.suning.com
 fe.suning.com
+fed.zhangmen.com
 feidiao.suning.com
 feige.suning.com
 feiru.suning.com
@@ -1000,6 +1002,7 @@ idearidear.suning.com
 idonna1996.suning.com
 ifunk.suning.com
 im.zbj.com
+imap.zhangmen.com
 imassage.suning.com
 imgssl.suning.com
 immcs.zbj.com
@@ -1349,6 +1352,7 @@ lvxing.suning.com
 lvyang.zbj.com
 lyg-item.suning.com
 lyg.suning.com
+m-test.zhangmen.com
 m.cs.zbj.com
 m.gc.zbj.com
 m.industry.zbj.com
@@ -1361,6 +1365,7 @@ m.union.ipr.zbj.com
 m.vr.zbj.com
 m.zbj.com
 m.zc.suning.com
+m.zhangmen.com
 m13211057415.suning.com
 m177-181.snmailsit.suning.com
 m177-182.snmailsit.suning.com
@@ -1385,6 +1390,7 @@ maijiajia.suning.com
 maijie.zbj.com
 mail.suning.com
 mail.zbj.com
+mail.zhangmen.com
 maimaiche.suning.com
 maimang.zbj.com
 maimo.suning.com
@@ -1654,6 +1660,7 @@ online.suning.com
 opdgdq.suning.com
 open.suning.com
 open.zbj.com
+open.zhangmen.com
 openapi.zbj.com
 opple.suning.com
 opple2.suning.com
@@ -1692,6 +1699,7 @@ parnis.suning.com
 parzin.suning.com
 pas.suning.com
 passport.suning.com
+passport.zhangmen.com
 passporthk.suning.com
 patent.ipr.zbj.com
 paterson.suning.com
@@ -1735,6 +1743,7 @@ playboy-neiyi.suning.com
 playboy.suning.com
 playboynx.suning.com
 plplps.suning.com
+pop3.zhangmen.com
 popobear.suning.com
 post.zbj.com
 pp-sports.suning.com
@@ -1860,6 +1869,7 @@ reportservice.zbj.com
 res.m.suning.com
 resjrprd.mslb.suning.com
 resjrprd.suning.com
+resource.zhangmen.com
 respay.suning.com
 respaypre.suning.com
 respaysit.suning.com
@@ -2447,6 +2457,7 @@ slv.suning.com
 smarthome.suning.com
 smc.suning.com
 smp.suning.com
+smtp.zhangmen.com
 snasss.suning.com
 snbangke.suning.com
 snbook.suning.com
@@ -2506,6 +2517,7 @@ sstj.zbj.com
 st-sat.suning.com
 start.suning.com
 static.zbj.com
+static.zhangmen.com
 statistics.zbj.com
 stc.suning.com
 stiebeleltron.suning.com
@@ -2551,6 +2563,7 @@ szmuying.suning.com
 szs.zbj.com
 t.t6.zbj.com
 t.v6.zbj.com
+t.zhangmen.com
 t400.suning.com
 t6.zbj.com
 tad.suning.com
@@ -2764,6 +2777,7 @@ wenya.suning.com
 wessel.zbj.com
 wetechcn.suning.com
 wetherm.suning.com
+wgj.zhangmen.com
 whisper.zbj.com
 winona.suning.com
 winwin.suning.com
@@ -2819,7 +2833,9 @@ www.xiaogan.zbj.com
 www.ys.zbj.com
 www.zbj.com
 www.zc.suning.com
+www.zhangmen.com
 www.zhengzhou.zbj.com
+www2.zhangmen.com
 wwww.suning.com
 wxapi.zbj.com
 wxds.suning.com
@@ -3108,6 +3124,7 @@ zekai.zbj.com
 zexiang.zbj.com
 zgfg.suning.com
 zhangjiajie.zbj.com
+zhangmen.com
 zhanjiang.zbj.com
 zhanyou.suning.com
 zhaopin.zbj.com
